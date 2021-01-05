@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"edu.samcodes.utility","l":"Accountant"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"edu.samcodes.utility","l":"bankAccount"}];updateSearchResults();
